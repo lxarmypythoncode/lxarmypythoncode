@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and cybersecurity
 - 🌱 I’m currently learning advanced JavaScript and ethical hacking
 - 💞️ I’m looking to collaborate on open-source projects and cybersecurity initiatives
-- 📫 How to reach me: lxarmypythoncode@example.com
+- 📫 How to reach me: lombokcyber30@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love solving puzzles and challenges, both in coding and in real life!
 
